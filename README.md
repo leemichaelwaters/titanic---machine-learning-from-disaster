@@ -1,4 +1,4 @@
-# Titanic---Machine-Learning-from-Disaster
+# titanic---machine-learning-from-disaster
 
 Kaggle getting started competition to perform binary classification as to whether a given passenger survives.
 
